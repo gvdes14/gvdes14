@@ -6,7 +6,7 @@ Software developer focused on designing and building reliable software, professi
 
 ## 💼 Expertise
 - Custom software development
-- Web applications and websites
+- Web applications and platforms
 - API design and system integrations
 
 ---
@@ -32,10 +32,13 @@ Software developer focused on designing and building reliable software, professi
 
 ---
 ## 🚀 What I’m working on
+> Most of my professional work is private. 
+
 - Improving system design and architecture for scalable applications  
 - Deepening my knowledge of .NET and modern web technologies  
 - Refining DevOps workflows with Docker and CI/CD pipelines  
 - Continuously improving code quality, performance, and maintainability
+
 
 ## 📬 Contact
 🌐 https://vervoort-design.be  
