@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hallo, ik ben Gregory Vervoort
 
-<!--
-**gvdes14/gvdes14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer met focus op het bouwen van betrouwbare software,
+professionele websites en schaalbare webapplicaties.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Wat ik doe
+- Ontwikkeling van maatwerk software
+- Websites en webapplicaties
+- API’s en integraties
+
+## 🛠️ Technologie
+JavaScript · TypeScript · React · Node.js · PHP · Docker · Git
+
+## 📌 Projecten
+Bekijk mijn gepinde repositories hieronder voor een selectie van mijn werk.
+
+## 📬 Contact
+🌐 https://vervoort-design.be
+✉️ gregory@vervoort-design.be
